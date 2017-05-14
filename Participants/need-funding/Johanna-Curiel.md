@@ -2,17 +2,17 @@
 layout: blocks/page-participant
 title: Johanna Curiel
 type: participant
-travel-from     :
+travel-from     : Amsterdam
 expenses        : owasp
-funded          : no
-funded-who      :
-flight-cost     : 1000
-ticket-cost     : 1500
-funded-amount   : 0
-required-funds  : 2500
-project-leader  :
+funded          : yes
+funded-who      : OWASP
+flight-cost     : 
+ticket-cost     : 
+funded-amount   :
+required-funds  :
+project-leader  : OWASP Bug Bounty
 chapter-leader  :
-job-title       :
+job-title       : Security Engineer
 image           :
 linkedin        :
 twitter         :
